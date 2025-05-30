@@ -129,7 +129,7 @@ https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E
 - *YOUR PREFIX:* = ${prefix}
 
 Don't forget to give a star to the repo ⬇️  
-https://github.com/caseyweb/JINX-MD
+https://github.com/eliakip/Eliakim-Xmd/tree/main
 
 > © Powered BY CASEYRHODES TECH 🍀 🖤`
             });

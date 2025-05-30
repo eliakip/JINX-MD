@@ -1,4 +1,4 @@
-#        𝐉𝐈𝐍𝐗 𝐗𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍𝐒
+h#        𝐉𝐈𝐍𝐗 𝐗𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍𝐒
 
    <a>
                                       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=F71515&width=435&lines=BOT+100%25+LEGIT" alt="Typing SVG" /></a>   
@@ -34,7 +34,7 @@
 
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/caseyweb/NHEZHO-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href=https://github.com/caseyweb/NHEZHO-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 <p align="center">
 
 #### 𝐒𝐄𝐓𝐔𝐏

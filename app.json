@@ -1,9 +1,9 @@
 {
-  "name": "JINX-XMD",
-  "description": "I am JINX-XMD WhatsApp MultiDevice Bot built in NodeJs to enhance the experience.",
+  "name": "ELIAKIM-XMD",
+  "description": "I am ELIAKIM-XMD WhatsApp MultiDevice Bot built in NodeJs to enhance the experience.",
   "logo": "https://files.catbox.moe/qk52l3.jpg",
   "keywords": ["JINX-MD"],
-  "repository": "https://github.com/caseyweb/JINX-MD",
+  "repository": "https://github.com/eliakip/ELIAKIM-MD",
   "stack": "container",
   "env": { 
       "SESSION_ID": {
@@ -19,7 +19,7 @@
     "BOT_NAME": {
       "description": "change bot name what you want!",
       "required": false,
-      "value": "JINX-MD"
+      "value": "ELIAKIM-XMD"
     },
     "MENU_IMAGE": {
       "description": "change menu image if want otherwise use default",
@@ -29,7 +29,7 @@
     "DESCRIPTION": {
       "description": "add caption for menu and etc",
       "required": false,
-      "value": "FAYEZ"
+      "value": "ELIAKIM"
     },
     "ANTI_DELETE": {
       "description": "set path for antidelete for same chat set to same",
@@ -55,7 +55,7 @@
     "STATUS_READ_MSG": {
       "description": "set your status reply message",
       "required": false,
-      "value": "*Status Seen By JINX-MD 👻🤍*"
+      "value": "*Status Seen By ELIAKIM-XMD 👻🤍*"
     },
     "OWNER_NAME": {
       "description": "set your status reply message",
@@ -65,7 +65,7 @@
     "OWNER_NUMBER": {
       "description": "set your status reply message",
       "required": false,
-      "value": "254112192119"
+      "value": "254745931715"
     },
     "AUTO_READ": {
       "description": "make it true if you want bot to read message",

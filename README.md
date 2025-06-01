@@ -9,14 +9,14 @@
 <p align="center">
 <img src="https://files.catbox.moe/j2ego4.jpg"/>       
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+NHEZHO-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+FAYEZ-TECH❤️+MD+TECHS;RELEASED+DATE+07%2F7%2F2024."                               alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+NHEZHO-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+ELIAKIM-TECH❤️+MD+TECHS;RELEASED+DATE+07%2F7%2F2024."                               alt="Typing SVG" /></a>
 </p> 
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-FAYEZ_TECH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-ELIAKIM_TECH-red.svg?style=for-the-badge&logo=github"></a>
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/eliakip"><img title="Author" src="https://img.shields.io/badge/FAYEZ-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/D9hokK6OHS5C3eLEwPKjsJ"><img title="Author" src="https://img.shields.io/badge/GROUP-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254745931715"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
+<a href="https://github.com/eliakip"><img title="Author" src="https://img.shields.io/badge/ELIAKIM-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/D9hokK6OHS5C3eLEwPKjsJ"><img title="Author" src="https://img.shields.io/badge/GROUP-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254745931715"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
 <p/>
 
  <p align="center">
@@ -25,11 +25,11 @@
   </a>
    
 <p align="center">
-<a href="https://github.com/eliakip/NHEZHO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/caseyweb/NHEZHO-MD?color=white&style=flat-square"></a>
-<a href="https://github.com/caseyweb/NHEZHO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/caseyweb/NHEZHO-MD?color=yellow&style=flat-square"></a>
-<a href="https://github.com/caseyweb/NHEZHO-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/caseyweb/NHEZHO-MD?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/caseyweb/NHEZHO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/caseyweb/NHEZHO-MDA/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/eliakip/ELIAKIM-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/eliakip/ELIAKIM-XMD?color=white&style=flat-square"></a>
+<a href="https://github.com/eliakip/NHEZHO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/eliakip/NHEZHO-MD?color=yellow&style=flat-square"></a>
+<a href="https://github.com/eliakip/NHEZHO-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/eliakip/NHEZHO-MD?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/eliakip/NHEZHO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eliakip/NHEZHO-MDA/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
         <a href = ""><img alt="ELIAKIM Tools" src="https://img.shields.io/youtube/channel/subscribers/UCjDKRYcwd5ZIpGICcVVL96Q" target="_blank" /></a>
 
 ### 1. FORK THIS REPO

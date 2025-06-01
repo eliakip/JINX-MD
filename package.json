@@ -1,15 +1,15 @@
 {
-  "name": "JAWAD-MD",
+  "name": "ELIAKIM-XMD",
   "version": "10.8.1",
-  "description": "JAWAD-XMD latest multi device whatsapp bot",
+  "description": "ELIAKIM-XMD latest multi device whatsapp bot",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name JAWAD-XMD",
-    "stop": "pm2 stop JAWAD-XMD",
-    "restart": "pm2 restart JAWAD-XMD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name ELIAKIM-XMD",
+    "stop": "pm2 stop ELIAKIM-XMD",
+    "restart": "pm2 restart ELIAKIM-XMD"
   },
-  "keywords": ["jawad-md", "whatsapp-bot", "whatsapp md bot"],
+  "keywords": ["eiakim-xmd", "whatsapp-bot", "whatsapp md bot"],
   "author": "JawadTechX",
   "license": "ISC",
   "dependencies": {

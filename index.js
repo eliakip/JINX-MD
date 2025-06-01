@@ -56,7 +56,7 @@ async function downloadSessionData() {
         return false;
     }
 
-    const sessdata = config.SESSION_ID.split("Caseyrhodes~")[1];
+    const sessdata = config.SESSION_ID.split("eliakim-xmd~")[1];
 
     if (!sessdata || !sessdata.includes("#")) {
         console.error('❌ Invalid SESSION_ID format! It must contain both file ID and decryption key.');
@@ -129,9 +129,9 @@ https://whatsapp.com/channel/0029VbAF7Og65yD6dbZeBv2t
 - *YOUR PREFIX:* = ${prefix}
 
 Don't forget to give a star to the repo ⬇️  
-https://github.com/eliakip/FAYEZ-MD
+https://github.com/eliakip/ELIAKIM-XMD
 
-> © Powered BY FAYEZ TECH 🍀 🖤`
+> © Powered BY ELIAKIM TECH 🍀 🖤`
             });
             initialConnection = false;
         } else {

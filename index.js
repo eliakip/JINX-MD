@@ -89,20 +89,20 @@ async function start() {
     try {
         const { state, saveCreds } = await useMultiFileAuthState(sessionDir);
         const { version, isLatest } = await fetchLatestBaileysVersion();
-        console.log(`🤖 JINX-MD using WA v${version.join('.')}, isLatest: ${isLatest}`);
+        console.log(`🤖 ELIAKIM-XMD using WA v${version.join('.')}, isLatest: ${isLatest}`);
         
         const Matrix = makeWASocket({
             version,
             logger: pino({ level: 'silent' }),
             printQRInTerminal: useQR,
-            browser: ["JINX-MD", "safari", "3.3"],
+            browser: ["ELIAKIM-XMD", "safari", "3.3"],
             auth: state,
             getMessage: async (key) => {
                 if (store) {
                     const msg = await store.loadMessage(key.remoteJid, key.id);
                     return msg.message || undefined;
                 }
-                return { conversation: "JINX-MD whatsapp user bot" };
+                return { conversation: "ELIAKIM-XMD whatsapp user bot" };
             }
         });
 
@@ -114,14 +114,14 @@ Matrix.ev.on('connection.update', (update) => {
         }
     } else if (connection === 'open') {
         if (initialConnection) {
-            console.log(chalk.green("Connected Successfully JINX-XMD 🤍"));
+            console.log(chalk.green("Connected Successfully ELIAKIM-XMD 🤍"));
             Matrix.sendMessage(Matrix.user.id, { 
                 image: { url: "https://files.catbox.moe/j2ego4.jpg" }, 
-                caption: `*Hello there JINX-XMD User! 👋🏻* 
+                caption: `*Hello there ELIAKIM-XMD User! 👋🏻* 
 
-> Simple, Straightforward, But Loaded With Features 🎊. Meet JINX-XMD WhatsApp Bot.
+> Simple, Straightforward, But Loaded With Features 🎊. Meet ELIAKIM-XMD WhatsApp Bot.
 
-*Thanks for using JINX-XMD 🚩* 
+*Thanks for using ELIAKIM-XMD 🚩* 
 
 > Join WhatsApp Channel: ⤵️  
 https://whatsapp.com/channel/0029VbAF7Og65yD6dbZeBv2t
@@ -179,7 +179,7 @@ https://github.com/eliakip/ELIAKIM-XMD
             await Matrix.readMessages([mek.key]);
             
             if (config.AUTO_STATUS_REPLY) {
-                const customMessage = config.STATUS_READ_MSG || '✅ Auto Status Seen Bot By JINX-XMD';
+                const customMessage = config.STATUS_READ_MSG || '✅ Auto Status Seen Bot By ELIAKIM-XMD';
                 await Matrix.sendMessage(fromJid, { text: customMessage }, { quoted: mek });
             }
         }

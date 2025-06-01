@@ -124,14 +124,14 @@ Matrix.ev.on('connection.update', (update) => {
 *Thanks for using JINX-XMD 🚩* 
 
 > Join WhatsApp Channel: ⤵️  
-https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E
+https://whatsapp.com/channel/0029VbAF7Og65yD6dbZeBv2t
 
 - *YOUR PREFIX:* = ${prefix}
 
 Don't forget to give a star to the repo ⬇️  
-https://github.com/caseyweb/JINX-MD
+https://github.com/eliakip/FAYEZ-MD
 
-> © Powered BY CASEYRHODES TECH 🍀 🖤`
+> © Powered BY FAYEZ TECH 🍀 🖤`
             });
             initialConnection = false;
         } else {

@@ -29,7 +29,7 @@
     "DESCRIPTION": {
       "description": "add caption for menu and etc",
       "required": false,
-      "value": "© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄᴀsᴇʏʀʜᴏᴅᴇs ᴛᴇᴄʜ"
+      "value": "FAYEZ"
     },
     "ANTI_DELETE": {
       "description": "set path for antidelete for same chat set to same",

@@ -23,9 +23,9 @@ const config = {
   MODE: process.env.MODE || "public",
   BOT_NAME: process.env.BOT_NAME || "JINX-MD",
   MENU_IMAGE: process.env.MENU_IMAGE || "https://files.catbox.moe/6852sf.jpg",
-  DESCRIPTION: process.env.DESCRIPTION || "© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄᴀsᴇʏʀʜᴏᴅᴇs ᴛᴇᴄʜ",
-  OWNER_NAME: process.env.OWNER_NAME || "Caseyrhodes",
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "254112192119",
+  DESCRIPTION: process.env.DESCRIPTION || "FAYEZ-XMD",
+  OWNER_NAME: process.env.OWNER_NAME || "FAYEZ",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "254745931715",
   GEMINI_KEY: process.env.GEMINI_KEY || "AIzaSyCUPaxfIdZawsKZKqCqJcC-GWiQPCXKTDc",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
 };
